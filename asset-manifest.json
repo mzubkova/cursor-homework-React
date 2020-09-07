@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/.github.io/cursor-homework-React/static/css/main.9dee37cf.chunk.css",
+    "main.js": "/.github.io/cursor-homework-React/static/js/main.b7ab18d4.chunk.js",
+    "main.js.map": "/.github.io/cursor-homework-React/static/js/main.b7ab18d4.chunk.js.map",
+    "runtime-main.js": "/.github.io/cursor-homework-React/static/js/runtime-main.48e5db9b.js",
+    "runtime-main.js.map": "/.github.io/cursor-homework-React/static/js/runtime-main.48e5db9b.js.map",
+    "static/js/2.d8913e75.chunk.js": "/.github.io/cursor-homework-React/static/js/2.d8913e75.chunk.js",
+    "static/js/2.d8913e75.chunk.js.map": "/.github.io/cursor-homework-React/static/js/2.d8913e75.chunk.js.map",
+    "index.html": "/.github.io/cursor-homework-React/index.html",
+    "precache-manifest.c46f2402dffd31d2b9d31e46132f28ed.js": "/.github.io/cursor-homework-React/precache-manifest.c46f2402dffd31d2b9d31e46132f28ed.js",
+    "service-worker.js": "/.github.io/cursor-homework-React/service-worker.js",
+    "static/css/main.9dee37cf.chunk.css.map": "/.github.io/cursor-homework-React/static/css/main.9dee37cf.chunk.css.map",
+    "static/js/2.d8913e75.chunk.js.LICENSE.txt": "/.github.io/cursor-homework-React/static/js/2.d8913e75.chunk.js.LICENSE.txt",
+    "static/media/comment.svg": "/.github.io/cursor-homework-React/static/media/comment.880ac01e.svg",
+    "static/media/correct.svg": "/.github.io/cursor-homework-React/static/media/correct.c27a63e2.svg",
+    "static/media/download.svg": "/.github.io/cursor-homework-React/static/media/download.76a9b341.svg",
+    "static/media/heart.svg": "/.github.io/cursor-homework-React/static/media/heart.c7e469f7.svg",
+    "static/media/retweet.svg": "/.github.io/cursor-homework-React/static/media/retweet.8392a35d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48e5db9b.js",
+    "static/js/2.d8913e75.chunk.js",
+    "static/css/main.9dee37cf.chunk.css",
+    "static/js/main.b7ab18d4.chunk.js"
+  ]
+}
