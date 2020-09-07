@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/.github.io/cursor-homework-React/static/css/main.9dee37cf.chunk.css",
+    "main.css": "/.github.io/cursor-homework-React/static/css/main.ccc25154.chunk.css",
     "main.js": "/.github.io/cursor-homework-React/static/js/main.b7ab18d4.chunk.js",
     "main.js.map": "/.github.io/cursor-homework-React/static/js/main.b7ab18d4.chunk.js.map",
     "runtime-main.js": "/.github.io/cursor-homework-React/static/js/runtime-main.48e5db9b.js",
@@ -8,9 +8,9 @@
     "static/js/2.d8913e75.chunk.js": "/.github.io/cursor-homework-React/static/js/2.d8913e75.chunk.js",
     "static/js/2.d8913e75.chunk.js.map": "/.github.io/cursor-homework-React/static/js/2.d8913e75.chunk.js.map",
     "index.html": "/.github.io/cursor-homework-React/index.html",
-    "precache-manifest.c46f2402dffd31d2b9d31e46132f28ed.js": "/.github.io/cursor-homework-React/precache-manifest.c46f2402dffd31d2b9d31e46132f28ed.js",
+    "precache-manifest.e62379cd5cc5321b64163b10e665c164.js": "/.github.io/cursor-homework-React/precache-manifest.e62379cd5cc5321b64163b10e665c164.js",
     "service-worker.js": "/.github.io/cursor-homework-React/service-worker.js",
-    "static/css/main.9dee37cf.chunk.css.map": "/.github.io/cursor-homework-React/static/css/main.9dee37cf.chunk.css.map",
+    "static/css/main.ccc25154.chunk.css.map": "/.github.io/cursor-homework-React/static/css/main.ccc25154.chunk.css.map",
     "static/js/2.d8913e75.chunk.js.LICENSE.txt": "/.github.io/cursor-homework-React/static/js/2.d8913e75.chunk.js.LICENSE.txt",
     "static/media/comment.svg": "/.github.io/cursor-homework-React/static/media/comment.880ac01e.svg",
     "static/media/correct.svg": "/.github.io/cursor-homework-React/static/media/correct.c27a63e2.svg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.48e5db9b.js",
     "static/js/2.d8913e75.chunk.js",
-    "static/css/main.9dee37cf.chunk.css",
+    "static/css/main.ccc25154.chunk.css",
     "static/js/main.b7ab18d4.chunk.js"
   ]
 }
