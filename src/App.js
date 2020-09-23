@@ -18,7 +18,7 @@ const postList = [
     name: "NASA",
     photo: NASA_IMAGE,
     nickname: "@NASA",
-    contentDate: "",
+    contentDate: "On Monday, Sept. 21 at 9pm ET,",
     contentUser: "",
     content:
       "Galaxy NGC 2188 is a barred spiral, but only its very narrow outer edge is visible to us on Earth.",

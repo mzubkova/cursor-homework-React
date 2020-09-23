@@ -10,9 +10,7 @@ const Post = (props) => {
   return (
     <div className="inner">
       <section className="section">
-        <span>
-          <img src={props.photo} alt={props.photo} className="logo" />
-        </span>
+        <img src={props.photo} alt={props.photo} className="logo" />
         <div className="inner__box">
           <div className="inner__box-title">
             <a
