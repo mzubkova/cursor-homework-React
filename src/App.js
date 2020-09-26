@@ -1,5 +1,5 @@
 import React from "react";
-import Post from "./components/post";
+import Post from "./post";
 
 const NASA_IMAGE =
   "https://pbs.twimg.com/profile_images/1091070803184177153/TI2qItoi_400x400.jpg";
